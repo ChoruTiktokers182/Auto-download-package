@@ -146,7 +146,6 @@ echo "--------------------------------------------------------------------------
 
 echo
 echo "#####################################"
-echo "https://m.youtube.com/channel/UCuBSi0oObCZk1nXL4iDzzFw/videos"
 echo "https://github.com/ChoruTiktokers182"
 echo "#####################################"
 echo
